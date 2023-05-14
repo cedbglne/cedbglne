@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2>Hey! 👋</h2>
 
-<!--
-**cedbglne/cedbglne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=cedbglne.cedbglne)](https://github.com/cedbglne) [![GitHub followers](https://img.shields.io/github/followers/cedbglne.svg?style=social&label=Follow)](https://github.com/cedbglne?tab=followers)
 
-Here are some ideas to get you started:
+Je suis Cédric BOUGLIONE! 
+- <i>Actuellement:</i> Développeur web pour COPPRETHIA 
+- <i>Précedement:</i> Cariste chez Synergie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 Je travaille actuellement sur...</h2>
+
+- Un outil utilisant l'API Instagram
+- Mon blog personnel disponible début Juillet 2023
+
+
+__N'hésitez pas à regarder ce que je fais :__
+
+<div>
+  <p>
+    <a href="https://github.com/cedbglne/InstaToolTest">
+      Mon outil d'information gathering pour Instagram !
+    </a>
+  </p>
+</div>
+
+<h2> A propos de moi⚡:</h2>
+
+Je suis un étudiant diplômé vivant à Rennes. En dehors de la technologie, j'aime lire, écouter de la musique et explorer la nature en plein air. Curieux de nature et dynamique, j'aime donné tout ce que j'ai dans aussi bien dans mon travail que dans ma vie privé. N'hésitez pas donner vos avis sur mes différents projets ! Bonne journée
+Je suis un étudiant diplômé vivant à Rennes. En dehors de la technique, j'aime lire, écouter de la musique et explorer la nature en plein air. Curieux de nature et dynamique, j'aime donné tout ce que j'ai dans aussi bien dans mon travail que dans ma vie privée. N'hésitez pas donné vos avis sur mes différents projets ! Bonne journée
+ 
+- Mon blog: (A venir)
